@@ -2,8 +2,8 @@
   "header": {
     "icon": {
       "color": "orange",
-      "style": "float",
-      "name": "tina"
+      "style": "circle",
+      "name": "like"
     },
     "color": "default",
     "nav": [
